@@ -10,8 +10,6 @@ appifylab/
 └── frontend/         # Next.js React application
 ```
 
-### 📁 _legacy
-Contains the original static website files that served as the design reference for the Next.js application.
 
 ### 📁 backend
 Node.js/Express backend API with MongoDB database.

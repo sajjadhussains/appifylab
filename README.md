@@ -6,7 +6,6 @@ This project is organized into three main directories:
 
 ```
 appifylab/
-├── _legacy/          # Original static HTML/CSS/JS files
 ├── backend/          # Express.js API server
 └── frontend/         # Next.js React application
 ```

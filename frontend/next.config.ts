@@ -9,6 +9,11 @@ const nextConfig: NextConfig = {
                 port: '5001',
                 pathname: '/uploads/**',
             },
+            {
+                protocol: 'https',
+                hostname: 'appifylab-o3i9.onrender.com',
+                pathname: '/uploads/**',
+            },
         ],
     },
 };

@@ -1,7 +1,7 @@
 import { ApiError } from './types';
 
 // API Base URL Configuration
-export const API_BASE_URL = process.env.NEXT_PUBLIC_API_URL || 'http://localhost:5001/api';
+export const API_BASE_URL = process.env.NEXT_PUBLIC_API_URL || 'https://appifylab-o3i9.onrender.com/api';
 
 interface RequestOptions extends RequestInit {
     headers?: Record<string, string>;

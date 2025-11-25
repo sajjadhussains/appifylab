@@ -163,17 +163,14 @@ NEXT_PUBLIC_API_URL=http://localhost:5001/api
 ✅ Like/unlike posts and comments
 ✅ Comment system with nested replies
 ✅ View who liked posts/comments
-✅ Delete own posts and comments
-✅ Facebook-style UI design
 ✅ Responsive layout
 ✅ Image upload and display
-✅ Real-time updates
+
 
 ## Development Notes
 
 - Frontend uses Next.js App Router
 - Backend uses Express with modular architecture
-- Images stored in `backend/uploads/`
 - CORS configured for cross-origin requests
 - CSP configured to allow image loading
 # appifylab
